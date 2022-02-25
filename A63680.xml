@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the dreadful ghost appearing to one John Dyer in VVinchester Yard near St. Mary Ovres in Southwarke; taken to be the spirit of his late wife Jane Dyer, who departed this life some time since, with an account of the affrightful shapes, and its pursuing him from place to place. Likewise is added another account of the penitent murtherer, Robert Congden, who was executed in Brook-street, near Ratclif-Cross, and afterwards hung up in chains between Mile-End and Bow.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63680</idno>
+            <idno type="STC">Wing T2943B</idno>
+            <idno type="STC">ESTC R220927</idno>
+            <idno type="EEBO-CITATION">99832311</idno>
+            <idno type="PROQUEST">99832311</idno>
+            <idno type="VID">36783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2139:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the dreadful ghost appearing to one John Dyer in VVinchester Yard near St. Mary Ovres in Southwarke; taken to be the spirit of his late wife Jane Dyer, who departed this life some time since, with an account of the affrightful shapes, and its pursuing him from place to place. Likewise is added another account of the penitent murtherer, Robert Congden, who was executed in Brook-street, near Ratclif-Cross, and afterwards hung up in chains between Mile-End and Bow.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Moore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dyer, John, --  in Winchester Yard --  Early works to 1800.</term>
+               <term>Congden, Robert --  Early works to 1800.</term>
+               <term>Apparitions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36783:1"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:36783:1"/>
+            <!-- PDF PAGE 50 -->
+            <p>A true Relation of the <hi>Dreadful Ghoſt</hi> Appearing To one <hi>John Dyer</hi> in <hi>VVincheſter</hi> Yard, near St. <hi>Mary Ovres</hi> in <hi>Southwarke;</hi> taken to be the Spirit of his late Wife <hi>Jane Dyer,</hi> who departed this Life ſome time ſince, with an Account of the Affrightful Shapes, and its purſuing him from place to place.</p>
+            <figure>
+               <figDesc>a man lies in a four-poster bed</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of a supernatural figure</figDesc>
+            </figure>
+            <p>Likewiſe is added another Account of the Penitent Murtherer, <hi>Robert Congden,</hi> who was Executed in <hi>Brook-ſtreet,</hi> near <hi>Ratclif-Croſs,</hi> and afterwards hung up in Chams between <hi>Mile-End</hi> and <hi>Bow.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Moore,</hi> 1691:</p>
+            <pb facs="tcp:36783:2"/>
+            <!-- PDF PAGE 51 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div n="ghost" type="account">
+            <pb n="2" facs="tcp:36783:3"/>
+            <!-- PDF PAGE 52 -->
+            <head>
+               <hi>A True RELATION OF THE</hi> Dreadful GHGST <hi>Appearing</hi> To one <hi>John Dyer</hi> in <hi>Wincheſter</hi>-Yard, near St. <hi>Mary-Ovres</hi> in <hi>Southwark;</hi> taken to be the Spirit of his late VVife, <hi>Jane Dyer,</hi> who died ſome time ſince; with an Account of the dreadful Shapes, and its pur<g ref="char:EOLhyphen"/>ſuing him from place to place.</head>
+            <p>
+               <hi>JOhn Dyer</hi> was formerly a Lad brought up at <hi>Chriſt</hi>'s Hoſpital, and arrived to be an indiffe<g ref="char:EOLhyphen"/>rent good Schollar, and ſince being a Sawyer by his Employment, Married to a young Woman, by whom he had ſeveral Children, and lately kept a Victualling-Houſe at the Sign of the <hi>Blew-Coat</hi> in <hi>Deadman</hi>'s <hi>place</hi> in <hi>Southwark,</hi> and ſome time ſince his Wife died, leaving him Three ſmall Children; it ſeems, ſhe was ſomewhat diſcontented on her Death-bed, and it is thought, becauſe her Husband
+<pb n="3" facs="tcp:36783:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 52 -->had lent Money without her conſent, which ſhe feared would be loſt. She had not been long buri<g ref="char:EOLhyphen"/>ed before the Houſe was troubled in the Night time, with ſtrange and unuſual Noiſes, which increaſed to that degree, that it proved a terrour to the whole Neighbourhood, and ſo frightful to the ſaid <hi>John Dyer,</hi> that it made him leave that Houſe, and go to another, thinking thereby to be rid of this troubleſome Gueſs, but all in vain, for he was ſtill purſued by thoſe Diſturbances, that he could not reſt in his Bed, and has received ſuch a Damage on his left Arm, that it is altogether made uſeleſs. One Night the Spirit came to him, and called him by his Name, bidding him not be afraid, for it would do him no harm, and approached to him ſo near, that he felt a perfect cold hand all over his Face, and the Spirit at the ſame time bid him go to <hi>Barna<g ref="char:EOLhyphen"/>by-ſtreet,</hi> and fetch Fifteen Pounds, and pay it to Mr. <hi>Mealing</hi> the Brewer; and it continues frequent<g ref="char:EOLhyphen"/>ly in fome diſturbing manner or other, ſometimes it makes a knocking, as if it were at the Door, at other times a ſort of Noife, as though ſomebody walked up and down the Room, and has been ſo troubleſome, that the poor Man is almoſt at Deaths door for want of Reſt; he has been forced to make another removal into <hi>Wincheſter</hi>-yard, near St. <hi>Ma<g ref="char:EOLhyphen"/>ry Overies,</hi> in hopes of finding a place of Reſt ſome where, but ſtill all in van; for ſince his lying there, he has been ſtill terrified with ſtrange Noiſes; there was a Miniſter, and Four or Five very creditable Neighbours ſate up with him
+<pb n="4" facs="tcp:36783:4"/>
+               <!-- PDF PAGE 53 -->him at this laſt Houſe in <hi>Wincheſter</hi>-yard, who do affirm, That they heard ſome<g ref="char:EOLhyphen"/>thing tap up and down, as if ſomebody ſhould walk to and fro the Chamber, but ſay, they ſaw not any thing, but obſerved the Man to be in an extream ſort of ſweat<g ref="char:EOLhyphen"/>ing, and looking very frightfull; on <hi>Thurſday</hi> Night laſt, the Fifth of <hi>March,</hi> ſome other Neighbours ſate up with him, (who indeed, ſome or other does every Night ſince this Affliction) and I heard him ſay he ſaw the aforeſaid Shadow, or Spirit paſs by his Bed, and he ſaid, they that ſate up with him that Night ſaw a great deal more, but I could not get out of him in what manner: he is really to be pitied, for he can take no reſt hardly, either Night or Day, he is fain to ſit up in a Chair every Night, for he dares not go to Bed: All the Neighbourhood affirms the reallity of this dreadful Relation, and he is viſited by hudreds of People every day.</p>
+            <div n="danger" type="prayer">
+               <head>A Prayer in Calamity.</head>
+               <p>O Lord, in whoſe Power is the Breath of all Mankind; Thou Great
+<pb n="5" facs="tcp:36783:4"/>
+                  <!-- PDF PAGE 53 -->and Wiſe Diſpoſer of all things, look down from thy Throne of Holineſs, upon thy poor and unworthy Servant. O Mer<g ref="char:EOLhyphen"/>ciful Father of all Spirits, give thy An<g ref="char:EOLhyphen"/>gels charge over me, to ſupport me in my greateſt Neceſſities; That in Life and Death I may rely on Thee alone, and whilſt I am on this ſide the Grave, my im<g ref="char:EOLhyphen"/>perfect Prayers may find acceptance with Thee: Be near me in the hour of Death, and let the Enemy get no advantage o<g ref="char:EOLhyphen"/>ver me, but ſupport me, if it be Thy Bleſſed Will, and ſave me for thy Mer<g ref="char:EOLhyphen"/>cies ſake, not for any deſert in me, but through the Merits and Mediation of our Lord Jeſus Chriſt and Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="night" type="prayer">
+               <head>A Prayer at Night, in the time of Danger.</head>
+               <p>O Lord God, what ſhall I do? whi<g ref="char:EOLhyphen"/>ther ſhall I flie? Where can I be ſafe, but with thee? take me, receive me, keep and defend me now and for ever: O Lord give me quiet, reſt, and ſleep, and protect me, and grant all in this Houſe Comfort in thee, this Night and ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="Robert Codgden" type="confession">
+               <pb n="6" facs="tcp:36783:5"/>
+               <!-- PDF PAGE 54 -->
+               <head>
+                  <hi>Robert Codgden</hi>'s Confeſſion.</head>
+               <p>My Maſter and Miſtreſs both being from home, and none left but an ancient Gedtlewoman, (their Mother) a Servant-Maid, with a Child about two or three years of Age, at which time I brought my Companions thither. I ſent the Maid forth for a Penny-worth of Tobacco, that I might accompliſh my wicked Deſign; ſhe was no ſooner gone, but I immediately taking a Bar of Iron in my hand, went behind the ancient Gentlewoman, and knock'd her down, ſo that ſhe immediately died; a little Child of my Maſters ſitting by, he feeing what I had done, ſaid, <hi>Robin, Don't make me bloudy, as you have my Grand-mother.</hi> Yet notwithſtanding the pretty Speeches of this Innocent Lamb, my Heart was ſo hardened, that I took not the leaſt Pity or Compaſſion, but killed it as it was ſpeaking to me this done: I placed my ſelf behind the Door, wait<g ref="char:EOLhyphen"/>ing the return of the Maid, whom I ſerved as I had the other before; then Robbing the Houſe, and going to offer the Plate to a Goldſmiths near <hi>Al<g ref="char:EOLhyphen"/>gate,</hi> I was ſtopt, and had before a Magiſtrate, who committed me to <hi>Newgate;</hi> at Seſſions coming to my Tryal, I was found Guilty, and accordingly re<g ref="char:EOLhyphen"/>ceived the juſt Sentance of Death; for I do acknow<g ref="char:EOLhyphen"/>ledge to the World, that it was theſe Hands of mine (and no other) that did commit the bloudy Mur<g ref="char:EOLhyphen"/>thers upon thoſe Innocent Perſons, for which I ear<g ref="char:EOLhyphen"/>neſtly deſire to Repent.</p>
+               <pb n="7" facs="tcp:36783:5"/>
+               <!-- PDF PAGE 54 -->
+               <p>
+                  <hi>On</hi> Friday, February <hi>the</hi> 27th. <hi>A Gibbet was e<g ref="char:EOLhyphen"/>rected at the Door of Captain</hi> Githings <hi>in</hi> Brook-ſtreet, Robert Congden <hi>was brought in a Cart</hi> (<hi>round by</hi> Ratcliff-Croſs, <hi>and ſo up</hi> Brookſtreet) <hi>to the place of Execution, and being tied up, he began to lament his moſt dreadful (and at preſent) remedileſs Downfall, after a moſt earneſt manner, that ever he ſhould be guil<g ref="char:EOLhyphen"/>ty of ſo horrid a Crime, as the Murther of three ſuch innocent Souls, who, he ſaid, endured more at their Deaths, than he ſhould now at his Execution: And after this he prayed to this effect.</hi>
+               </p>
+            </div>
+            <div n="repentence" type="prayer">
+               <head>His Prayer.</head>
+               <p>O Lord, and my dear Redeemer, Jeſus Chriſt, I deſire to repent of my Sins, do thou waſh them all away with one drop of thy Bloud, and be near to me in the hour of great Extremity. My dear Saviour, I beg of my Repentance, becauſe I am willing to repent: And let all the World take Example by my Suffering. Lord Jeſus, I am com<g ref="char:EOLhyphen"/>ing to thee juſt now in half an hours time. O let me come to thee with a clear Conſcience, and let not the wicked One take hold of me, Lord. I have been a great Sinner, yet thou canſt forgive them all; my Sufferings are nothing to what my dear Je<g ref="char:EOLhyphen"/>ſus under went for me. Lord take me into thy Cu<g ref="char:EOLhyphen"/>ſtody; I forgive all the World, let me be forgiven by thee: Lord let me creep into thy Wounds, and waſh me clean from my Sins. I Murdered the three Perſons with my own Hands, and the Perſons
+<pb n="8" facs="tcp:36783:6"/>
+                  <!-- PDF PAGE 55 -->whom I have accuſed are not Guilty: Let the Sin lie at my Door: Lord, they died and harder Death than I do now: And Lord, let me requeſt one thing more from thee, that is in the behalf of my dear Parents, that God would bleſs them, for they gave me better Counſel: And Oh! that my Bre<g ref="char:EOLhyphen"/>thren would take warning by me, and that God would give them more Grace, that they may not come to ſo fatal and End. So that he concluded with the Lord's Prayer, <hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+               <p>After this his Foot ſlipping through the Cart, he ſunk down, and was almoſt ſtrangled, but the Rope being not well faſtened to the Gibbet, gave way, ſo he came to his Senſes again, and cryed out, <hi>O Lord Jeſus, I was coming to thee, Why didſt thou let me come into this wicked World again? I am more wil<g ref="char:EOLhyphen"/>ling to Die, than Live any longer,</hi> &amp;c.</p>
+               <p>Then he Praying a conſiderable time by himſelf, the Cart was drawn away: and being Cut down, he was afterward conveyed to the Gibbet between <hi>Mile-End</hi> and <hi>Bow,</hi> and there hang'd up in Chains.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
